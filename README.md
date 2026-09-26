@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Finn 👋
 
-<!--
-**Only-Furina/Only-Furina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate student majoring in Intelligent Manufacturing Engineering.
 
-Here are some ideas to get you started:
+🤖 Interested in:
+- Artificial Intelligence
+- Computer Vision
+- Robotics
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack:
+
+Python | C | MATLAB
+
+PyTorch | YOLO | OpenCV
+
+📌 Current Projects:
+
+- AI-based melanoma screening system
+- Intelligent health monitoring platform
+- Industrial fault diagnosis
+
+🌱 Currently learning:
+Deep Learning, Robotics, Control Systems
